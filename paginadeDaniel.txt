@@ -1,0 +1,232 @@
+﻿!doctype html>
+<html lang="es">
+	<head>
+	
+	<meta charset="utf-8">
+	<title>LA FOTOGRAFIA</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<title>hola amigos!</title>
+	
+	<style>
+
+	h2 {
+     		color: blue;
+	 } 
+	h3 {
+     		color: orange;
+	 } 
+	h1 { 
+     		color: red;
+	 }  	 
+	 
+	body {
+     		blackground: green;
+	 }
+	.tema {
+     		font-size: 40px;
+	 }
+	.definicion {
+     		font-size: 20px;
+	 }
+	#titulo { 
+     		font-family: arial narrow;
+	 	text-decoration: underline;
+	 }
+	#parrafo {
+     		font-family: verdana;
+	 	line-height: 1.5em;
+     		text-align: center;	 
+	 }
+	ul li a{
+     		font-size: 24px;
+	 	color: red;
+	 }
+	header{
+     		background: green;
+     		color: rojo;
+	 }
+	header:hover{
+     		background: yellow;
+	 }
+	articule,
+	h2,
+	.definicion,
+	#angulos{
+     		background: yellow;
+	 	font-family: verdana;
+	 }
+	ul .rojo{
+     		color: red
+     	}
+	 
+	nav ul li{
+     		list-style: none;
+	 	marging: 20px;
+	 	pudding: 30px;
+	 	overflow: hidden;
+	 	float: left
+	 }
+	nav ul li a{
+     		display: block;
+	 	background: gray;
+	 	width: 100%;
+	 	heigth: 5px;
+	 }	
+
+	.lista {
+     		background: gray;
+     		width: 50%;
+	 	height: 80px;
+	 	overflow-y: auto;
+	 	overflow-x: hidden;
+	 	margin-riht: 10px;
+	 	border: 6px solid purple;
+	 
+	</style>
+	
+	</head>
+	<body>	
+	<header>Caracteristicas de la fotografia</header>
+	<section>
+     <h1 class="tema" id="titulo">La fotografia</h1>
+
+	<pclass="definicion" id="parrafo">Se le llama <em>fotografia</em> a la tecnica y forma de arte que consiste en <strong>capturar imagenes empleando para ello la luz</strong>, 
+	proyectandola y fijandola en forma de imagenes sobre un medio sensible.</p>
+
+	<article>
+     <h2 class="tema">Caracteristicas segun sus angulos</h2>
+
+	<pclass="definicion">Cuando nos referimos a los angulos fotograficos, hablamos de la posicion que tiene la camara al momento de fotografiar.
+	Dependiendo del angulo se pueden lograr diferentes estilos de fotografia. entre todos los angulos fotograficos,
+	se destacan cinco de ellos que son:</p>	
+
+	<ulid="angulos">
+	<li> Angulo normal </li>
+	<li> Angulo picado</li>
+	<li> Angulo contrapicado </li>
+	<li> Angulo cenital </li>
+	<li> Angulo nadir </li>
+	</ul> 
+	<table>
+	<thead>
+	     	<tr>
+		     	<th>Angulos fotograficos</th>
+			<th>Caracteristica principal</th>
+		</tr>
+	</thead>
+	<tbody>
+	     	<tr>
+		     	<td>Angulo normal</td>
+			<td>El lente se coloca al mismo nivel del sujeto a fotografiar</td>
+		</tr>
+		<tr>
+		     	<tdid="picado">Angulo picado</td>
+			<td>se coloca la camara por encima del objeto y ligeramente hacia el suelo</td>
+		</tr>
+		<tr>
+		     	<td>Angulo contrapicado</td>
+			<td>se coloca la camara ligeramente ppor debajo del objeto y ligeramente hacia arriba </td>
+		</tr>
+		<tr>
+		      	<td>Angulo cenital</td>
+			<td>la camara se coloca en un angulo perpendicular al suelo por encima del sujeto</td>
+		</tr>
+		<tr>
+		     	<td>Angulo nadir</td>
+			<td>La camara se coloca de abajo hacia arriba de manera que queda perpendicular al cielo</td>
+		</tr>	 
+	</tbody>
+	</table>
+     
+	</article>
+
+	<nav>
+     	<ul>
+	     <br>
+		<li><a href="https://www.dzoom.org.es/tipos-de-plano-fotografico/">Mas informacion</a></li>
+	     </br>
+	     <br>
+		<li><a href="https://www.youtube.com/watch?v=Ms1nUuoOv-E">Tutorial</a></li>		 
+	     </br>	
+	</ul>
+	</nav>
+
+	<article>
+     <h3 class="tema">Caracteristicas segun sus planos</h3>
+
+	<pclass="definicion">Los planos nos ayudan a darle un sentido a la fotografia y a demostrar de la mejor manera lo que queremos de esta.
+	Los planos fotograficos <estrong>es la proporcion que tiene el objeto o sujeto dentro del encuadre</strong>, a traves de ellos podemos
+	seleccionar qué parte de todo lo que vemos aparecera en nuestras fotografias. Los siguientes son los mas usados:</p>
+
+	<ulclass="lista">
+	<li> Plano general </li>
+	<li> Plano entero </li>
+	<li> Plano americano </li>
+	<li> Plano medio </li>
+	<liclass="rojo"> Plano medio corto </li>
+	<liclass="rojo"> Primer plano </li>
+	<li> Primerisimo primer plano </li>
+	<li> Plano detalle </li> 
+	</ul>
+	<a href="https://soyhorizonte.com/blog/planos-fotograficos-para-que-sirven-y-como-se-usan/#:~:text=Los%20planos%20fotogr%C3%A1ficos%20es%20la,de%20conservar%20la%20est%C3%A9tica%20visual">Leer mas detalles </a>
+	</article>
+	</section>
+
+   <thead><tr><th>			
+   <div class="container-sm">		
+		<div class="row">
+			<form>			
+			<div class="col-1">				
+					<div class="mb-3">
+						<label for="exampleInputEmail1" class="form-label">Correo Electronico </label>
+							<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+					</div>
+					<div id="emailHelp" class="form-text">Nunca compartiremos su correo electrónico.</div>
+			</div>
+			<div class="col-2">
+					<div class="mb-3">
+						<label for="exampleInputPassword1" class="form-label">Contraseña</label>
+						<input type="password" class="form-control" id="exampleInputPassword1">
+					</div>
+			</div>	
+					<div class="mb-3 form-check">
+						<input type="checkbox" class="form-check-input" id="exampleCheck1">
+						<label class="form-check-label" for="exampleCheck1">Revisarme</label>
+					</div>
+					<button type="submit" class="btn btn-primary">Enviar</button>		
+			</div>
+			<div class="col-3">		
+				<div class="accordion accordion-flush" id="accordionFlushExample">
+  					<div class="accordion-item">
+    						<h2 class="accordion-header" id="flush-headingOne">
+      							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        							Desplegar opciones
+      							</button>
+    						</h2>
+					</div>	
+    				</div>
+			</div>
+  			</div>
+			</form>
+	</div>
+     	</thead></th></tr>		
+	<aside>
+	<table>
+		<thead>
+	     		<tr>
+		     		<th></th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			<th><img src="file:///C:/Users/FAMILY/Desktop/Demas/Angel.jpg" width= "50%,*"></th>
+			<th><img src="file:///C:/Users/FAMILY/Desktop/Demas/Angel.jpg" width= "50%,*"></th>
+		</tbody>		
+	</table>
+     	<h4>Autor</h4>	 
+	 <p>Esta pagina fue creada por Angel Martinez, el cual le toma gran importancia a la fotografia </p>
+	</aside>
+	<footer> correo a <a href="mailto:andamartinez.ruiz@gmail.com"> andamartinez.ruiz@gamil.com </a> </footer>
+	 
+	</body>
+</html>  
